@@ -19,7 +19,7 @@ Este proyecto consiste en una API RESTful implementada en Java utilizando el fra
 ## Instrucciones de ejecución
 
 1. Clona el repositorio.
-2. Abre el proyecto en tu IDE preferido (por ejemplo, IntelliJ IDEA o Visual Studio Code).
+2. Abre el proyecto en IntelliJ IDEA 
 3. Ejecuta la clase `MainApi` para iniciar el servidor local.
 4. Usa herramientas como Postman o Insomnia para probar los endpoints de la API.
 
